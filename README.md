@@ -1,16 +1,74 @@
-# vital_link
+# Vital Link
 
-A new Flutter project.
+LOGO.jpg
 
-## Getting Started
+## Overview
+Vital Link is a mobile application designed to help doctors track the vitals of their assigned patients in real-time. The app utilizes medical sensors to collect patient vitals, which are then uploaded to Firebase. Doctors can access this data through the app, allowing for efficient monitoring and management of their patients.
 
-This project is a starting point for a Flutter application.
+## Features
+- **Real-time vitals tracking** – View up-to-date health data from connected medical sensors.
+- **Patient management** – Easily assign new patients to doctors.
+- **Calendar integration** – Keep track of medical appointments and schedules.
+- **Notifications** – Receive alerts for critical health changes or important updates.
+- **Medical staff collaboration** – Leave notes and share information with other medical professionals.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- **Flutter** – Cross-platform mobile development framework.
+- **Dart** – Programming language used for Flutter development.
+- **Firebase** – Backend services for real-time database, authentication, and notifications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots & Descriptions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Login Screen
+This screen allows doctors to securely log in to the app using their credentials. Authentication is handled through Firebase.
+
+### 2. Dashboard
+After logging in, the dashboard provides an overview of assigned patients and their vitals, including heart rate, oxygen levels, and other medical metrics.
+
+### 3. Patient List
+Doctors can view a list of their assigned patients. Selecting a patient provides more in-depth details about their vitals and medical history.
+
+### 4. Realtime Vitals Tracking
+This screen displays real-time vitals data retrieved from connected medical sensors. Data is continuously updated to ensure accurate monitoring.
+
+### 5. Calendar & Appointments
+Doctors can use the calendar feature to schedule and manage appointments with their patients, ensuring timely checkups and follow-ups.
+
+### 6. Notifications
+Critical alerts and updates appear in the notification section, keeping medical staff informed of urgent changes in patient vitals.
+
+### 7. Notes & Collaboration
+Medical staff can leave notes regarding a patient's condition, ensuring seamless communication among healthcare providers.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/11don1/vital-link.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd vital-link
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`feature-branch-name`).
+3. Commit your changes.
+4. Push the branch and create a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+---
+
+Let me know if you want to refine any section or add more details! 🚀
+
