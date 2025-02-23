@@ -24,8 +24,8 @@ This screen provides access to different sections of the app, allowing easy navi
 ![drawer](https://github.com/user-attachments/assets/93508832-6a1c-43c6-a947-0b0e7c7a9396)
 ### 2. Login Screen
 Doctors and medical staff can log in securely to access their assigned patients and medical records.
-![rsz_login](https://github.com/user-attachments/assets/62e3bc5b-b369-4870-b5eb-0b32c7f68832)
 
+![rsz_login](https://github.com/user-attachments/assets/62e3bc5b-b369-4870-b5eb-0b32c7f68832)
 ### 3. Patients List
 Doctors can view a list of assigned patients with their essential health details and navigate to their profiles.
 ![patiens](https://github.com/user-attachments/assets/47a692fd-f9c0-452e-81d9-422438e22d04)
