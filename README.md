@@ -1,6 +1,6 @@
 # Vital Link
 
-![LOGO](https://github.com/user-attachments/assets/c3cd23d5-3b3c-447e-8732-5f171fe1b925)
+![LOGO](https://github.com/user-attachments/assets/3c9a7886-7f8e-4239-a8e3-23ccaa674f0f)
 
 
 ## Overview
