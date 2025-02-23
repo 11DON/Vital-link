@@ -24,6 +24,7 @@ Doctors can view a list of assigned patients with their essential health details
 
 ### 2. Home Dashboard
 This screen displays an overview of patient vitals, recent alerts, and quick access to different sections of the app.
+![rsz_login](https://github.com/user-attachments/assets/4780ed11-f099-4063-bd52-7186a85fb5b1)
 
 ### 3. Patient Profile
 A detailed view of a specific patient's vitals, medical history, and ongoing treatment notes.
