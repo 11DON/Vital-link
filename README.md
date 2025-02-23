@@ -1,6 +1,7 @@
 # Vital Link
 
-[LOGO.jpg](https://github.com/11DON/Vital-link/blob/b3eeb1e8b5ee937bdbeff2e8548578ce67ace81e/LOGO.jpg)
+![LOGO](https://github.com/user-attachments/assets/c3cd23d5-3b3c-447e-8732-5f171fe1b925)
+
 
 ## Overview
 Vital Link is a mobile application designed to help doctors track the vitals of their assigned patients in real-time. The app utilizes medical sensors to collect patient vitals, which are then uploaded to Firebase. Doctors can access this data through the app, allowing for efficient monitoring and management of their patients.
