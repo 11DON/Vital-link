@@ -57,7 +57,7 @@ This screen provides real-time updates on a patient’s health parameters such a
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/11don1/vital-link.git
+   git clone https://github.com/11don/vital-link.git
    ```
 2. Navigate to the project directory:
    ```sh
